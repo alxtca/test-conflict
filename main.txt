@@ -1,2 +1,3 @@
 first line
 conflict line
+added conflict from local machine
