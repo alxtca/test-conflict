@@ -1,3 +1,4 @@
 first line
 conflict line
 added conflict from local machine
+this line was eddited in ui
